@@ -61,7 +61,7 @@
       console.log(resultDiv.innerHTML);
     }
 
-    //function to get all results (displays max 20 results)
+    //function to get all results
     function renderAll(results) {
       displayResults.innerHTML = "";
       resultDiv.hidden = false;
